@@ -18,6 +18,15 @@ Me gusta resolver problemas estadisticos y estoy disfrutando de una transición 
 * :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo
 
 * :mailbox: ¿Quieres contactar conmigo? [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiaracaceres/)
+<div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+  </a>
+
+</div>
 <!--
 **Kiara-caceres/Kiara-caceres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
