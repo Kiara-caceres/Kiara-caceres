@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiaracaceres/)
 
 <h1>
-  Hola soy Noelia. ¡Que gusto de conocerte!
+  Hola soy Kiara. ¡Que gusto de conocerte!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <!--
