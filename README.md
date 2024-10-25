@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/noelianav91/noelianav91/blob/main/Banner%20Github.png" width="800"/>
+  <img decoding="async" src="https://github.com/Kiara-caceres/Kiara-caceres/blob/main/Banner%20de%20Linkedin%20para%20Copywriter%20Moderno%20Neutral.png" width="800"/>
 </div>
 
 <!--
