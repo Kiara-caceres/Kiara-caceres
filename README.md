@@ -11,7 +11,13 @@
 </h1>
  <div id="header" align="left">
 
-### :woman_technologist: Sobre mí :
+### :woman_technologist: Sobre mí : 
+Me gusta resolver problemas estadisticos y estoy disfrutando de una transición laboral al Data Analytics <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
+
+* :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo
+
+* :mailbox: ¿Quieres contactar conmigo? [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiaracaceres/)
 <!--
 **Kiara-caceres/Kiara-caceres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
